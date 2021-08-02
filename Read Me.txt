@@ -1,0 +1,16 @@
+*INSTRUCTIONS*
+
+I. Necessary software: XAMPP Control Panel
+
+	1. Download and install XAMPP: https://www.apachefriends.org/download.html
+	2. Open XAMPP then start the Apache and MySQL modules
+	3. Extract the "myproject" folder into the xampp directory (C:\xampp\htdocs)
+	4. Open your browser, then type localhost/phpmyadmin
+	5. Create a new database by clicking the "New" button and name it as "my_db"
+	6. Click the "my_db" database that you've made then navigate into the top panels, then click import
+	7. Click the "Choose File" button, then select the "my_db.sql" file that is located at: C:\xampp\htdocs\myproject\login\database
+	8. After selecting the "my_db.sql" file, click the "Go" button
+	9. In your browser's url bar; type "localhost/myproject/login/index.php" 
+	10. Sign up then login to access the website.
+	
+When buying a product; type the package name, account ID(located at the top-side of the Home page) , and quantity into the textboxes
